@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="2-1-1-product-dao" />
+        <module name="jpa-hibernate-util" />
+        <module name="persistence-util" />
+        <module name="3-2-2-photo-comment-dao" />
+        <module name="3-0-0-hello-jpa-entity" />
+        <module name="3-0-2-query-helper" />
+        <module name="3-0-1-hello-persistence-xml" />
+        <module name="4-0-spring-data-jpa" />
+        <module name="jpa-hibernate-model" />
+        <module name="1-2-3-many-to-many-schema" />
+        <module name="2-0-2-create-table" />
+        <module name="jdbc-util" />
+        <module name="3-1-1-employee-profile" />
+        <module name="3-1-2-company-products" />
+        <module name="1-2-1-one-to-one-schema" />
+        <module name="3-0-3-account-dao" />
+        <module name="3-1-3-author-book" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="1-0-rdbms-and-sql" target="1.5" />
+      <module name="1-2-1-one-to-one-schema" target="1.5" />
+      <module name="1-2-3-many-to-many-schema" target="1.5" />
+      <module name="2-0-2-create-table" target="1.5" />
+      <module name="2-0-jdbc-api" target="1.5" />
+      <module name="2-1-1-product-dao" target="1.5" />
+      <module name="3-0-0-hello-jpa-entity" target="1.5" />
+      <module name="3-0-1-hello-persistence-xml" target="1.5" />
+      <module name="3-0-2-query-helper" target="1.5" />
+      <module name="3-0-3-account-dao" target="1.5" />
+      <module name="3-0-jpa-and-hibernate" target="1.5" />
+      <module name="3-1-1-employee-profile" target="1.5" />
+      <module name="3-1-2-company-products" target="1.5" />
+      <module name="3-1-3-author-book" target="1.5" />
+      <module name="3-2-2-photo-comment-dao" target="1.5" />
+      <module name="4-0-spring-data-jpa" target="1.5" />
+      <module name="Bobo-persistence" target="11" />
+      <module name="java-persistence-util" target="1.5" />
+      <module name="jdbc-util" target="1.5" />
+      <module name="jpa-hibernate-model" target="1.5" />
+      <module name="jpa-hibernate-util" target="1.5" />
+      <module name="persistence-util" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
